@@ -1,4 +1,4 @@
-# Hi there, I'm Saras Patel! 👋
+# Hi there, I'm Saras Patel! 👋  
 
 <img src="1f783fd9-3643-4172-bf66-a5e1a1401ee3.JPG" alt="Saras Patel" width="250" align="right" style="border-radius: 10px;" />
 
