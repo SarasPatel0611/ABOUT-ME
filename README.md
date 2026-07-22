@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently s
 * 🎓 I'm currently a student at **Charusat University**.
 * 🌱 I'm constantly learning and expanding my skill set.
 * 💡 I enjoy writing clean code and tackling complex logic problems.
-* 📫 How to reach me: [patelsaras611@gmail.com] 
+* 📫 How to reach me: [patelsaras611@gmail.com](mailto:patelsaras611@gmail.com) 
 
 ## 🛠️ Languages & Tools
 
@@ -20,12 +20,16 @@ Here are the technologies I currently work with:
 * **Programming Languages:** C++, Python
 * **Web Development:** HTML
 
+## 📁 Featured Repositories
+
+* 💻 **[CPP Repository](https://github.com/SarasPatel0611/CPP)** - Check out my C++ practice code and projects here!
+
 ## 📈 GitHub Stats
 
-<!-- You can uncomment these lines and replace 'your-github-username' with your actual username to show live stats! -->
+<!-- To show live stats, simply remove the "<!--" and "-->" arrows above and below the images -->
 <!-- 
-![Saras's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radium)
+![Saras's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarasPatel0611&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarasPatel0611&layout=compact&theme=radium)
 -->
 
 <br clear="both">
