@@ -1,6 +1,6 @@
 # Hi there, I'm Saras Patel! 👋  
 
-<div align="right">
+<div align="left">
   <img src="1f783fd9-3643-4172-bf66-a5e1a1401ee3 2.JPG" alt="Saras Patel" width="250" style="border-radius: 10px;" />
 </div>
 
