@@ -1,6 +1,6 @@
 # Hi there, I'm Saras Patel! 👋  
 
-<img src="1f783fd9-3643-4172-bf66-a5e1a1401ee3.JPG" alt="Saras Patel" width="250" align="right" style="border-radius: 10px;" />
+<img src="1f783fd9-3643-4172-bf66-a5e1a1401ee3 2.JPG" alt="Saras Patel" width="250" align="right" style="border-radius: 10px;" />
 
 Welcome to my GitHub profile! I'm a passionate student and developer currently studying at **Charusat University**. I love exploring new technologies, solving problems, and building interesting projects.
 
